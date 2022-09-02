@@ -42,8 +42,8 @@ p {
   line-height: 1.1;
   text-align: center;
   text-align: top; 
-  color: rgba(rgb(221, 0, 0), green, blue, alpha);
-  text-shadow: #535bf2 5px 5px 5px;
+  color: rgb(0, 0, 0);
+  text-shadow: #535bf2 1px 1px 4px;
 
 }
 
